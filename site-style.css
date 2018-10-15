@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+body .main {
+  background-color: #e9ecef;
+}
+body .block-border {
+  padding-top: 0.5em;
+  border: 0.2em double;
+}
+body .qualification-block {
+  margin-bottom: auto;
+}
+body .margin-top {
+  margin-top: 1em;
+}
+body .subbmit-btn {
+  margin-bottom: 2em;
+}
+
+.spec-font {
+  font: 1em sans-serif;
+}
+
+.pl-10 {
+  padding-left: 1em;
+}
+
+.spec {
+  padding: 1em;
+}
+
+/*# sourceMappingURL=site-style.css.map */

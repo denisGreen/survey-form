@@ -1,0 +1,34 @@
+body{
+	margin: 0;
+	padding: 0;
+
+	.main{
+		background-color: #e9ecef;
+	}
+		.block-border {
+		padding-top: 0.5em;
+		border: 0.2em double;
+	}
+	.qualification-block{
+		margin-bottom: auto;
+	}
+	.margin-top {
+		margin-top: 1em;
+	}
+	.subbmit-btn {
+	margin-bottom: 2em;
+}
+//	.spec-block {
+//	border: solid 0.02em black;
+//}
+
+}
+.spec-font {
+	font: 1em sans-serif;
+}
+.pl-10 {
+	padding-left: 1em;
+}
+.spec {
+	padding: 1em;
+}
